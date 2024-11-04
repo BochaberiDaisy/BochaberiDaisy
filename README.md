@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I am Daisy🌼
+
+I am a Data Scientist/Analyst and Front End Developer. <br>
+Co-founder at ClassifyMe, an ed-tech organization providing career guidance to high school students.
 
 <!--
 **BochaberiDaisy/BochaberiDaisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Github Stats
 
 ![BochaberiDaisy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BochaberiDaisy&theme=vue&hide_border=true)
